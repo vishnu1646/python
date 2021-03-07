@@ -1,0 +1,7 @@
+x=int(input("enter the 1 no"))
+y=int(input("enter the 2 no"))
+x=x+y
+y=x-y
+x=x-y
+print("the number after swapping 1st value",x)
+print("the number after swapping 2nd value",y)
